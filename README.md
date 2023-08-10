@@ -52,7 +52,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
 
 ## 🧑‍💻 Contribuidores 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Juniors-Developers-Group-JDG) 
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
 [![All Teams](https://img.shields.io/badge/teams-6-green.svg?style=flat-square)](#teams)
 
 <!--  -->
@@ -87,14 +87,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/filipecalm">
-          <img src="https://avatars.githubusercontent.com/u/103292859?v=4" width="100px;" style="border-radius: 50px;" alt="Filipe Almeida"/><br />
-          <sub><b>Filipe Almeida</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/For-Davi">
           <img src="https://avatars.githubusercontent.com/u/101297507?v=4" width="100px;" style="border-radius: 50px;" alt="Carlos Davi"/><br />
           <sub><b>Carlos Davi</b></sub>
@@ -112,17 +104,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/igor93araujo">
-          <img src="https://avatars.githubusercontent.com/u/107378024?v=4" width="100px;" style="border-radius: 50px;" alt="Igor Barbosa"/><br />
-          <sub><b>Igor Barbosa</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/itsmewt">
           <img src="https://avatars.githubusercontent.com/u/104033731?v=4" width="100px;" style="border-radius: 50px;" alt="itsmewt"/><br />
@@ -131,19 +112,13 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/JamDev0">
           <img src="https://avatars.githubusercontent.com/u/61752887?v=4" width="100px;" style="border-radius: 50px;" alt="JAMDev"/><br />
           <sub><b>JAMDev</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/JeffDoni">
-          <img src="https://avatars.githubusercontent.com/u/109824589?v=4" width="100px;" style="border-radius: 50px;" alt="Jefferson "/><br />
-          <sub><b>Jefferson </b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -162,6 +137,31 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="https://github.com/lRauane">
           <img src="https://avatars.githubusercontent.com/u/102835801?v=4" width="100px;" style="border-radius: 50px;" alt="Rauane Lima"/><br />
           <sub><b>Rauane Lima</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+        <a href="#Design" title="Design">🎨</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/pvcapuano">
+          <img src="https://avatars.githubusercontent.com/u/10540844?v=4" width="100px;" style="border-radius: 50px;" alt="Paulo Victor"/><br />
+          <sub><b>Paulo Victor</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/Romario-gomes">
+          <img src="https://avatars.githubusercontent.com/u/59178255?v=4" width="100px;" style="border-radius: 50px;" alt="Romario Alves"/><br />
+          <sub><b>Romario Alves</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/thaissacarvalho">
+          <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
+          <sub><b>Thaissa Carvalho</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -224,37 +224,12 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
     <!--  -->
     <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/pvcapuano">
-          <img src="https://avatars.githubusercontent.com/u/10540844?v=4" width="100px;" style="border-radius: 50px;" alt="Paulo Victor"/><br />
-          <sub><b>Paulo Victor</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/renovatt">
           <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
           <sub><b>Wildemberg </b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/Romario-gomes">
-          <img src="https://avatars.githubusercontent.com/u/59178255?v=4" width="100px;" style="border-radius: 50px;" alt="Romario Alves"/><br />
-          <sub><b>Romario Alves</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/thaissacarvalho">
-          <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
-          <sub><b>Thaissa Carvalho</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
       </td>
     </tr>
     <!--  -->
