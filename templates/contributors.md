@@ -1,51 +1,11 @@
-<!-- prettier-ignore -->
-<!-- START -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Answering Questions") | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-<!-- END -->
-
-#
-
-### Separação
-
-#
-
-<!-- CARD COM 1 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<!-- CARD COM 2 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<!-- CARD COM 3 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<!-- CARD COM 4 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Connie Leung</b></sub>](http://www.blueskyconnie.com/)<br />[🐱](https://github.com/codebuddies/codebuddies/issues?q=author%3Arailsstudent "Bug reports") | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<!-- CARD COM 5 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Connie Leung</b></sub>](http://www.blueskyconnie.com/)<br />[🐱](https://github.com/codebuddies/codebuddies/issues?q=author%3Arailsstudent "Bug reports") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<!-- CARD COM 6 -->
-| [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br />[🐱](#question-lpatmo "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](https://github.com/Jubileu)<br />[🐱](https://github.com/codebuddies/codebuddies/issues?q=author%3AJubileu "Bug reports") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>distalx</b></sub>](https://github.com/distalx)<br />[🐱](#question-distalx "Github") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Connie Leung</b></sub>](http://www.blueskyconnie.com/)<br />[🐱](https://github.com/codebuddies/codebuddies/issues?q=author%3Arailsstudent "Bug reports") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Ada Chiu</b></sub>](https://github.com/adachiu)<br />[🐱](#design-adachiu "Design") | [<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Anbuselvan</b></sub>](https://anbuselvan.net)<br />[🐱](#question-anbuselvan "Github") | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-#
-
-### Mandar o novo integrante preencher
-
-<!-- Mandar o novo integrante preencher -->
-[<img src="https://avatars.dicebear.com/api/initials/w.svg" width="100px;" style="border-radius:50%"/><br /><sub><b>Jubileu</b></sub>](http://twitter.com/lpnotes)<br /> [💻](#Code "Code") [🎨](#Desing "Desing") [👀](#code_review "Reviewed Pull Requests")
+<!-- tr -->
+<td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+  <a href="https://github.com/thaissacarvalho">
+    <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
+    <sub><b>Thaissa Carvalho</b></sub>
+  </a>
+  <br />
+  <a href="#code" title="Code">💻</a>
+  <a href="#Design" title="Design">🎨</a>
+</td>
+<!-- tr -->
