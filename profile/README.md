@@ -468,6 +468,230 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
       </td>
     </tr>
     <!--  -->
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<!-- Adicione mais 4 blocos semelhantes para os outros contribuidores -->
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<!-- Adicione mais 4 blocos semelhantes para os outros contribuidores -->
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<!-- Adicione mais 4 blocos semelhantes para os outros contribuidores -->
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<!-- Adicione mais 4 blocos semelhantes para os outros contribuidores -->
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/novonick">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="Nome do Contribuidor"/><br />
+      <sub><b>Nome do Contribuidor</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
   </tbody>
 </table>
 
