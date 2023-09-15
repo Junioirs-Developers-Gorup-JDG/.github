@@ -233,6 +233,56 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
       </td>
     </tr>
     <!--  -->
+    <tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/user1">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" style="border-radius: 50px;" alt="User 1"/><br />
+      <sub><b>User 1</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/user2">
+      <img src="https://avatars.githubusercontent.com/u/23456789?v=4" width="100px;" style="border-radius: 50px;" alt="User 2"/><br />
+      <sub><b>User 2</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/user3">
+      <img src="https://avatars.githubusercontent.com/u/34567890?v=4" width="100px;" style="border-radius: 50px;" alt="User 3"/><br />
+      <sub><b>User 3</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/user4">
+      <img src="https://avatars.githubusercontent.com/u/45678901?v=4" width="100px;" style="border-radius: 50px;" alt="User 4"/><br />
+      <sub><b>User 4</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    <a href="https://github.com/user5">
+      <img src="https://avatars.githubusercontent.com/u/56789012?v=4" width="100px;" style="border-radius: 50px;" alt="User 5"/><br />
+      <sub><b>User 5</b></sub>
+    </a>
+    <br />
+    <a href="#Code" title="Code">💻</a>
+  </td>
+</tr>
   </tbody>
 </table>
 
