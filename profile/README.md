@@ -50,370 +50,93 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
 - [JDG Website](https://github.com/Juniors-Developers-Group-JDG/Site-JDG-Front-End.git) ⚙️
 - [Hospital Veterinário](https://github.com/Juniors-Developers-Group-JDG/Hospital-Veteririo-Back-End.git) ⚙️
 
-## 🧑‍💻 Contribuidores 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Juniors-Developers-Group-JDG) 
+## 🧑‍💻 Contribuidores
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Juniors-Developers-Group-JDG)
 [![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
 [![All Teams](https://img.shields.io/badge/teams-6-green.svg?style=flat-square)](#teams)
 
-<!--  -->
+<!-- Tabela de Contribuidores -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <!-- Coluna 1 -->
+  <div style="flex: 1; max-width: 22%;">
+    <table style="border-collapse: separate; border-spacing: 10px;">
+      <tbody>
+        <tr>
+          <td align="center" valign="top" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+            <a href="https://github.com/anaclaraaraujo">
+              <img src="https://avatars.githubusercontent.com/u/72226706?v=4" width="100px;" style="border-radius: 50px;" alt="Ana Clara"/><br />
+              <sub><b>Ana Clara</b></sub>
+            </a>
+            <br />
+            <a href="#Code" title="Code">💻</a>
+            <a href="#Design" title="Design">🎨</a>
+          </td>
+        </tr>
+        <!-- Adicione mais linhas conforme necessário -->
+      </tbody>
+    </table>
+  </div>
 
-<table style="border-collapse: separate; border-spacing: 10px;">
-  <tbody>
-  <!--  -->
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/anaclaraaraujo">
-          <img src="https://avatars.githubusercontent.com/u/72226706?v=4" width="100px;" style="border-radius: 50px;" alt="Ana Clara"/><br />
-          <sub><b>Ana Clara</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/Bruno-freire">
-          <img src="https://avatars.githubusercontent.com/u/108240079?v=4" width="100px;" style="border-radius: 50px;" alt="Bruno Freire"/><br />
-          <sub><b>Bruno Freire</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/BrunoFerrari1">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Bruno Ferrari"/><br />
-          <sub><b>Bruno Ferrari</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/DiegoNascimento">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
-          <sub><b>Diêgo Sampaio</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
+  <!-- Coluna 2 -->
+  <div style="flex: 1; max-width: 22%;">
+    <table style="border-collapse: separate; border-spacing: 10px;">
+      <tbody>
         <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
+          <td align="center" valign="top" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+            <a href="https://github.com/Bruno-freire">
+              <img src="https://avatars.githubusercontent.com/u/108240079?v=4" width="100px;" style="border-radius: 50px;" alt="Bruno Freire"/><br />
+              <sub><b>Bruno Freire</b></sub>
+            </a>
+            <br />
+            <a href="#Code" title="Code">💻</a>
+          </td>
+        </tr>
+        <!-- Adicione mais linhas conforme necessário -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Coluna 3 -->
+  <div style="flex: 1; max-width: 22%;">
+    <table style="border-collapse: separate; border-spacing: 10px;">
+      <tbody>
         <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
+          <td align="center" valign="top" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+            <a href="https://github.com/BrunoFerrari1">
+              <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Bruno Ferrari"/><br />
+              <sub><b>Bruno Ferrari</b></sub>
+            </a>
+            <br />
+            <a href="#Code" title="Code">💻</a>
+          </td>
+        </tr>
+        <!-- Adicione mais linhas conforme necessário -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Coluna 4 -->
+  <div style="flex: 1; max-width: 22%;">
+    <table style="border-collapse: separate; border-spacing: 10px;">
+      <tbody>
         <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="URL_DO_PERFIL_GITHUB">
-          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
-          <sub><b>Nome do Colaborador</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-    </tr>
+          <td align="center" valign="top" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+            <a href="https://github.com/DiegoNascimento">
+              <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
+              <sub><b>Diêgo Sampaio</b></sub>
+            </a>
+            <br />
+            <a href="#Code" title="Code">💻</a>
+          </td>
+        </tr>
+        <!-- Adicione mais linhas conforme necessário -->
+      </tbody>
+    </table>
+  </div>
+  <!-- Adicione mais colunas conforme necessário -->
+</div>
+</div>
+
         <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="URL_DO_PERFIL_GITHUB">
