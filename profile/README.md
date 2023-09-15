@@ -210,48 +210,50 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Paulo Braz"/><br />
+          <sub><b>Paulo Braz</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
     </tr>
     <!--  -->
     <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Rafael Lopes"/><br />
+          <sub><b>Rafael Lopes</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
+        <a href="https://github.com/lRauane">
+          <img src="https://avatars.githubusercontent.com/u/102835801?v=4" width="100px;" style="border-radius: 50px;" alt="Rauane Lima"/><br />
+          <sub><b>Rauane Lima</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+        <a href="#Design" title="Design">🎨</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Rayanne Ramos"/><br />
+          <sub><b>Rayanne Ramos</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
+        <a href="https://github.com/thaissacarvalho">
+          <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
+          <sub><b>Thaissa Carvalho</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
+        <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/renovatt">
