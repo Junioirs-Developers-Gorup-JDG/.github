@@ -71,9 +71,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/anaelisaq">
-          <img src="https://avatars.githubusercontent.com/u/99890284?v=4" width="100px;" style="border-radius: 50px;" alt="Ana Elisa"/><br />
-          <sub><b>Ana Elisa</b></sub>
+        <a href="https://github.com/itsmewt">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Bruno Ferrari"/><br />
+          <sub><b>Bruno Ferrari</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -96,18 +96,18 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/GabSantAnna">
-          <img src="https://avatars.githubusercontent.com/u/65667701?v=4" width="100px;" style="border-radius: 50px;" alt="Gabrielle"/><br />
-          <sub><b>Gabrielle</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
+          <sub><b>Diêgo Sampaio</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/itsmewt">
-          <img src="https://avatars.githubusercontent.com/u/104033731?v=4" width="100px;" style="border-radius: 50px;" alt="itsmewt"/><br />
-          <sub><b>itsmewt</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Gabriel Badaró"/><br />
+          <sub><b>Gabriel Badaró</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -125,47 +125,46 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/JoelissonSS">
-          <img src="https://avatars.githubusercontent.com/u/113321562?v=4" width="100px;" style="border-radius: 50px;" alt="Joélisson "/><br />
-          <sub><b>Joélisson </b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Gabriel Badaró"/><br />
+          <sub><b>Guilherme Lopes </b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/lRauane">
-          <img src="https://avatars.githubusercontent.com/u/102835801?v=4" width="100px;" style="border-radius: 50px;" alt="Rauane Lima"/><br />
-          <sub><b>Rauane Lima</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Joélisson Santana"/><br />
+          <sub><b>Joélisson Santana/b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
         <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/pvcapuano">
-          <img src="https://avatars.githubusercontent.com/u/10540844?v=4" width="100px;" style="border-radius: 50px;" alt="Paulo Victor"/><br />
-          <sub><b>Paulo Victor</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Lucas Garcia"/><br />
+          <sub><b>Lucas Garcia</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/Romario-gomes">
-          <img src="https://avatars.githubusercontent.com/u/59178255?v=4" width="100px;" style="border-radius: 50px;" alt="Romario Alves"/><br />
-          <sub><b>Romario Alves</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Lucas Palhano"/><br />
+          <sub><b>Lucas Palhano</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/thaissacarvalho">
-          <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
-          <sub><b>Thaissa Carvalho</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Luis Eduardo"/><br />
+          <sub><b>Luis Eduardo</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
       </td>
     </tr>
     <!--  -->
@@ -205,14 +204,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/nicholassouto">
-          <img src="https://avatars.githubusercontent.com/u/106918936?v=4" width="100px;" style="border-radius: 50px;" alt="Nicholas Souto"/><br />
-          <sub><b>Nicholas Souto</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/onathanmateus">
           <img src="https://avatars.githubusercontent.com/u/117992913?v=4" width="100px;" style="border-radius: 50px;" alt="Nathan Mateus"/><br />
           <sub><b>Nathan Mateus</b></sub>
@@ -220,9 +211,49 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/nicholassouto">
+          <img src="https://avatars.githubusercontent.com/u/106918936?v=4" width="100px;" style="border-radius: 50px;" alt="Nicholas Souto"/><br />
+          <sub><b>Nicholas Souto</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
     </tr>
     <!--  -->
     <tr>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/renovatt">
+          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
+          <sub><b>Wildemberg </b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/renovatt">
+          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
+          <sub><b>Wildemberg </b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/renovatt">
+          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
+          <sub><b>Wildemberg </b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/renovatt">
+          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
+          <sub><b>Wildemberg </b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/renovatt">
           <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
