@@ -52,7 +52,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
 
 ## 🧑‍💻 Contribuidores 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Juniors-Developers-Group-JDG) 
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
 [![All Teams](https://img.shields.io/badge/teams-6-green.svg?style=flat-square)](#teams)
 
 <!--  -->
@@ -79,127 +79,33 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/For-Davi">
-          <img src="https://avatars.githubusercontent.com/u/101297507?v=4" width="100px;" style="border-radius: 50px;" alt="Carlos Davi"/><br />
-          <sub><b>Carlos Davi</b></sub>
+        <a href="https://github.com/BrunoFerrari1">
+          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Bruno Ferrari"/><br />
+          <sub><b>Bruno Ferrari</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/itsmewt">
-          <img src="https://avatars.githubusercontent.com/u/104033731?v=4" width="100px;" style="border-radius: 50px;" alt="itsmewt"/><br />
-          <sub><b>itsmewt</b></sub>
+        <a href="https://github.com/DiegoNascimento">
+          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Diego Nascimento"/><br />
+          <sub><b>Diego Nascimento</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
     </tr>
-    <!--  -->
     <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/JamDev0">
-          <img src="https://avatars.githubusercontent.com/u/61752887?v=4" width="100px;" style="border-radius: 50px;" alt="JAMDev"/><br />
-          <sub><b>JAMDev</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/JoelissonSS">
-          <img src="https://avatars.githubusercontent.com/u/113321562?v=4" width="100px;" style="border-radius: 50px;" alt="Joélisson "/><br />
-          <sub><b>Joélisson </b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/lRauane">
-          <img src="https://avatars.githubusercontent.com/u/102835801?v=4" width="100px;" style="border-radius: 50px;" alt="Rauane Lima"/><br />
-          <sub><b>Rauane Lima</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/pvcapuano">
-          <img src="https://avatars.githubusercontent.com/u/10540844?v=4" width="100px;" style="border-radius: 50px;" alt="Paulo Victor"/><br />
-          <sub><b>Paulo Victor</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/thaissacarvalho">
-          <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
-          <sub><b>Thaissa Carvalho</b></sub>
+        <a href="URL_DO_PERFIL_GITHUB">
+          <img src="URL_DA_IMAGEM_DO_PERFIL" width="100px;" style="border-radius: 50px;" alt="Nome do Colaborador"/><br />
+          <sub><b>Nome do Colaborador</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
         <a href="#Design" title="Design">🎨</a>
       </td>
     </tr>
-    <!--  -->
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/luixgabriel">
-          <img src="https://avatars.githubusercontent.com/u/70019908?v=4" width="100px;" style="border-radius: 50px;" alt="Luis Gabriel"/><br />
-          <sub><b>Luis Gabriel</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/matheusbloize">
-          <img src="https://avatars.githubusercontent.com/u/103312834?v=4" width="100px;" style="border-radius: 50px;" alt="Matheus Bloize"/><br />
-          <sub><b>Matheus Bloize</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/matheusOliv23">
-          <img src="https://avatars.githubusercontent.com/u/78116908?v=4" width="100px;" style="border-radius: 50px;" alt="Matheus Henrique"/><br />
-          <sub><b>Matheus Henrique</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/nicholassouto">
-          <img src="https://avatars.githubusercontent.com/u/106918936?v=4" width="100px;" style="border-radius: 50px;" alt="Nicholas Souto"/><br />
-          <sub><b>Nicholas Souto</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/onathanmateus">
-          <img src="https://avatars.githubusercontent.com/u/117992913?v=4" width="100px;" style="border-radius: 50px;" alt="Nathan Mateus"/><br />
-          <sub><b>Nathan Mateus</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-    </tr>
-    <!--  -->
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/renovatt">
-          <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-      </td>
-    </tr>
-    <!--  -->
   </tbody>
 </table>
 
