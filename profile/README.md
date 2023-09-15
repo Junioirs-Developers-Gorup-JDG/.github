@@ -71,9 +71,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/anaelisaq">
-          <img src="https://avatars.githubusercontent.com/u/99890284?v=4" width="100px;" style="border-radius: 50px;" alt="Ana Elisa"/><br />
-          <sub><b>Ana Elisa</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Bruno Ferrari"/><br />
+          <sub><b>Bruno Ferrari</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -96,9 +96,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/GabSantAnna">
-          <img src="https://avatars.githubusercontent.com/u/65667701?v=4" width="100px;" style="border-radius: 50px;" alt="Gabrielle"/><br />
-          <sub><b>Gabrielle</b></sub>
+        <a href="">
+          <img src="" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio/><br />
+          <sub><b>Diêgo Sampaio</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
