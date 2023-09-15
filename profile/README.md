@@ -102,7 +102,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="">
@@ -123,6 +122,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
         <a href="#Code_review" title="Code_review">👀</a>
+        <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="">
@@ -131,7 +131,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
-        <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="">
@@ -148,11 +147,15 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
+        <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="">
           <img src="" width="100px;" style="border-radius: 50px;" alt="Lucas Palhano"/><br />
           <sub><b>Lucas Palhano</b></sub>
+          <a href="#Code" title="Code">💻</a>
+          <a href="#Code_review" title="Code_review">👀</a>
+          <a href="#Design" title="Design">🎨</a>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
@@ -228,6 +231,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
+        <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/lRauane">
@@ -258,7 +262,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/renovatt">
           <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
-          <sub><b>Wildemberg </b></sub>
+          <sub><b>Wildemberg</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
