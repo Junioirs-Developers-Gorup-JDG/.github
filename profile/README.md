@@ -63,7 +63,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
     <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/anaclaraaraujo">
-          <img src="https://imgur.com/kTI5t2o" width="100px;" style="border-radius: 50px;" alt="Ana Clara"/><br />
+          <img src="https://imgur.com/a/6JWCzRv" width="100px;" style="border-radius: 50px;" alt="Ana Clara"/><br />
           <sub><b>Ana Clara</b></sub>
         </a>
         <br />
