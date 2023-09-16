@@ -125,8 +125,8 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="">
-          <img src="" width="100px;" style="border-radius: 50px;" alt="Guilherme Lopes"/><br />
+        <a href="https://github.com/gguilhermelopes">
+          <img src="https://avatars.githubusercontent.com/gguilhermelopes" width="100px;" style="border-radius: 50px;" alt="Guilherme Lopes"/><br />
           <sub><b>Guilherme Lopes </b></sub>
         </a>
         <br />
@@ -141,8 +141,8 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="">
-          <img src="" width="100px;" style="border-radius: 50px;" alt="Lucas Garcia"/><br />
+        <a href="https://github.com/LucasBGarcia">
+          <img src="https://avatars.githubusercontent.com/LucasBGarcia" width="100px;" style="border-radius: 50px;" alt="Lucas Garcia"/><br />
           <sub><b>Lucas Garcia</b></sub>
         </a>
         <br />
@@ -161,8 +161,8 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="">
-          <img src="" width="100px;" style="border-radius: 50px;" alt="Luis Eduardo"/><br />
+        <a href="https://github.com/luiseduardot17">
+          <img src="https://avatars.githubusercontent.com/luiseduardot17" width="100px;" style="border-radius: 50px;" alt="Luis Eduardo"/><br />
           <sub><b>Luis Eduardo</b></sub>
         </a>
         <br />
