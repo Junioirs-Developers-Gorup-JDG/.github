@@ -252,8 +252,8 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Design" title="Design">🎨</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="">
-          <img src="" width="100px;" style="border-radius: 50px;" alt="Rayanne Ramos"/><br />
+        <a href="https://github.com/RayanneRamos">
+          <img src="https://avatars.githubusercontent.com/RayanneRamos" width="100px;" style="border-radius: 50px;" alt="Rayanne Ramos"/><br />
           <sub><b>Rayanne Ramos</b></sub>
         </a>
         <br />
