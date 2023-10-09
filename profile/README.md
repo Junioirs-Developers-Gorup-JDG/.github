@@ -102,6 +102,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
+        <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/diegosmp">
@@ -114,6 +115,14 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
     </tr>
     <!--  -->
     <tr>
+       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/emillysant">
+          <img src="https://avatars.githubusercontent.com/emillysant" width="100px;" style="border-radius: 50px;" alt="Emilly Santiago"/><br />
+          <sub><b>Emilly Santiago</b></sub>
+        </a>
+        <br />
+        <a href="#Code" title="Code">💻</a>
+      </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/JamDev0">
           <img src="https://avatars.githubusercontent.com/u/61752887?v=4" width="100px;" style="border-radius: 50px;" alt="JAMDev"/><br />
