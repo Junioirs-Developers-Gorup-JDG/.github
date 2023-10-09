@@ -96,17 +96,17 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/diegosmp">
-          <img src="https://avatars.githubusercontent.com/diegosmp" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
-          <sub><b>Diêgo Sampaio</b></sub>
+        <a href="https://github.com/praecipito">
+          <img src="https://avatars.githubusercontent.com/praecipito" width="100px;" style="border-radius: 50px;" alt="Gabriel Badaró"/><br />
+          <sub><b>Gabriel Badaró</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-            <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="">
-          <img src="" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
-          <sub><b></b></sub>
+      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+        <a href="https://github.com/diegosmp">
+          <img src="https://avatars.githubusercontent.com/diegosmp" width="100px;" style="border-radius: 50px;" alt="Diêgo Sampaio"/><br />
+          <sub><b>Diêgo Sampaio</b></sub>
         </a>
         <br />
         <a href="#Code" title="Code">💻</a>
