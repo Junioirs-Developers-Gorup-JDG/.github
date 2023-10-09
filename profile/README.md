@@ -169,7 +169,10 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+    </tr>
+    <!--  -->
+    <tr>
+        <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/luiseduardot17">
           <img src="https://avatars.githubusercontent.com/luiseduardot17" width="100px;" style="border-radius: 50px;" alt="Luis Eduardo"/><br />
           <sub><b>Luis Eduardo</b></sub>
@@ -177,9 +180,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/luixgabriel">
           <img src="https://avatars.githubusercontent.com/u/70019908?v=4" width="100px;" style="border-radius: 50px;" alt="Luis Gabriel"/><br />
@@ -222,6 +222,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/paulobr4z">
           <img src="https://avatars.githubusercontent.com/paulobr4z" width="100px;" style="border-radius: 50px;" alt="Paulo Braz"/><br />
@@ -230,9 +233,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
        <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/pvcapuano">
           <img src="https://avatars.githubusercontent.com/pvcapuano" width="100px;" style="border-radius: 50px;" alt="Paulo Capuano"/><br />
@@ -277,6 +277,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
         <a href="#Design" title="Design">🎨</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/renovatt">
           <img src="https://avatars.githubusercontent.com/u/94547135?v=4" width="100px;" style="border-radius: 50px;" alt="Wildemberg "/><br />
@@ -286,7 +289,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
       </td>
     </tr>
-    <!--  -->
   </tbody>
 </table>
 
