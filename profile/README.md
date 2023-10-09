@@ -248,15 +248,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
-        <a href="https://github.com/pvcapuano">
-          <img src="https://avatars.githubusercontent.com/pvcapuano" width="100px;" style="border-radius: 50px;" alt="Paulo Capuano"/><br />
-          <sub><b>Paulo Capuano</b></sub>
-        </a>
-        <br />
-        <a href="#Code" title="Code">💻</a>
-        <a href="#Design" title="Design">🎨</a>
-      </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/rafalopesdev">
           <img src="https://avatars.githubusercontent.com/rafalopesdev" width="100px;" style="border-radius: 50px;" alt="Rafael Lopes"/><br />
@@ -275,10 +266,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
         <a href="#Design" title="Design">🎨</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
-      <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
+            <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/RayanneRamos">
           <img src="https://avatars.githubusercontent.com/RayanneRamos" width="100px;" style="border-radius: 50px;" alt="Rayanne Ramos"/><br />
           <sub><b>Rayanne Ramos</b></sub>
@@ -286,6 +274,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/thaissacarvalho">
           <img src="https://avatars.githubusercontent.com/u/83662843?v=4" width="100px;" style="border-radius: 50px;" alt="Thaissa Carvalho"/><br />
