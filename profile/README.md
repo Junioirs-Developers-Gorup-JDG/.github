@@ -151,7 +151,7 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
       </td>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
           <a href="https://github.com/GuilhermeSouzaGit">
-            <img src="https://avatars.githubusercontent.com/GuilhermeSouzaGit" width="100px;" style="border-radius: 50px;" alt="Guiherme Souza/><br />
+            <img src="https://avatars.githubusercontent.com/GuilhermeSouzaGit" width="100px;" style="border-radius: 50px;" alt="Guiherme Souza"/><br />
             <sub><b>Guilherme Souza</b></sub>
           </a>
         <br />
