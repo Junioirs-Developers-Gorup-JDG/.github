@@ -157,9 +157,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/LucasBGarcia">
           <img src="https://avatars.githubusercontent.com/LucasBGarcia" width="100px;" style="border-radius: 50px;" alt="Lucas Garcia"/><br />
@@ -169,6 +166,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <a href="#Code" title="Code">💻</a>
         <a href="#Code_review" title="Code_review">👀</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/Palhanor">
           <img src="https://avatars.githubusercontent.com/Palhanor" width="100px;" style="border-radius: 50px;" alt="Lucas Palhano"/><br />
