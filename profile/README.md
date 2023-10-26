@@ -213,9 +213,6 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
-    </tr>
-    <!--  -->
-    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/onathanmateus">
           <img src="https://avatars.githubusercontent.com/u/117992913?v=4" width="100px;" style="border-radius: 50px;" alt="Nathan Mateus"/><br />
@@ -224,6 +221,9 @@ Estamos sempre trabalhando em algo novo e empolgante. Confira alguns dos nossos 
         <br />
         <a href="#Code" title="Code">💻</a>
       </td>
+    </tr>
+    <!--  -->
+    <tr>
       <td align="center" valign="top" width="14.28%" style="border-radius: 10px; padding: 10px; background-color: #fafafa;">
         <a href="https://github.com/paulobr4z">
           <img src="https://avatars.githubusercontent.com/paulobr4z" width="100px;" style="border-radius: 50px;" alt="Paulo Braz"/><br />
